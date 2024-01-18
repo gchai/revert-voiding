@@ -1,0 +1,9 @@
+{
+  "name": "revert-voiding",
+  "version": "0.1.0",
+  "title": "Revert Voiding",
+  "author": "eithel",
+  "factorio_version": "1.1",
+  "dependencies": ["base", "space-exploration", "(?) space-exploration-postprocess"],
+  "description": "This mod reverts the nerf made to voiding in K2SE runs added by SE 0.6.121"
+}
